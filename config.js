@@ -37,8 +37,8 @@ let fs = require('fs')
 */
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.owner = ['6281361281833']
-global.mods = ['6281361281833']
+global.owner = ['6288804947282']
+global.mods = ['6288804947282']
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 
 
@@ -54,8 +54,8 @@ global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.wm3 = '𝑌𝑢𝑠𝒉𝑖𝑛𝑜 𝑀𝑑 '
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ownername = '⟆𝐀⃟𝐿𝐷𝐼'   
-global.ownernomor = '+62 813 6128 1833'
+global.ownername = 'Humanz'   
+global.ownernomor = '+62 888-0494-7282'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
@@ -63,15 +63,15 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ig = 'https://instagram/hyuura_official'
+global.ig = 'https://instagram/humanzboti'
 global.yt = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.dana = '0813 6128 1833'
-global.gopay = '0813 6128 1833'
-global.pulsa = '0813 6128 1833'
-global.saweria =  'https://saweria.co/hyuura'
+global.gopay = '0888 0494 7282'
+global.pulsa = '0888 0494 7282'
+global.saweria =  'https://saweria.co/humanzboti'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
